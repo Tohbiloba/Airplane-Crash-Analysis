@@ -60,7 +60,7 @@ Some of the reasons that could lead to aviation crash include:
 * Most of the errors could be as a result of human mistakes ranging from the Pilot’s error, Crew members mistakes, Traffic controller’s negligence
 * Weather condition
 * Negligence towards maintenance of the aircraft and some others.
-You can read more on why aviation accidents occur [Here](https://www.baumhedlundlaw.com/aviation-accident/why-planes-crash/#:~:text=Aviation%20accidents%20can%20be%20traced,%2C%20sabotage%2C%20or%20inclement%20weather.
+You can read more on why aviation accidents occur [Here](https://www.baumhedlundlaw.com/aviation-accident/why-planes-crash/#:~:text=Aviation%20accidents%20can%20be%20traced,%2C%20sabotage%2C%20or%20inclement%20weather).
 
 # Dashboard
 
