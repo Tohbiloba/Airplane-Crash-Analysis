@@ -66,10 +66,11 @@ You can read more on why aviation accidents occur [Here](https://www.baumhedlund
 
 ![image](https://user-images.githubusercontent.com/101842162/180265495-95764c9d-8789-4b41-a314-32796904b7fb.png)
 
-Recommendation
+# Recommendation
 
 * Human errors are fatal therefore airline operators, crew members, traffic controllers should adhere strictly to rules and regulations guiding flying an air craft so as to reduce the rate of aircraft accidents.
 * Weather is also one of the factors that causes aircraft crash the weather then should be better studied so as to determine if it’s safe to fly an aircraft at the time.
+
 You can interact with the dashboard [Here](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&pbi_source=mobile_android&groupObjectId=&appId=&reportObjectId=6923476d-3d3b-4a20-9232-6cf7585e1ff6).
 
 I can be reached via [LinkedIn](http://www.linkedin.com/in/oluwatobiloba-fatodu) and [Twitter](https://twitter.com/TobilobaKalos).
